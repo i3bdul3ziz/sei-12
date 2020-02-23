@@ -8,8 +8,8 @@
 
 |Role        | Name            | Slack       | Email |
 |:--         | :--             | :--         | :-- |
-|Lead Instructor  | Ebere Iweala      | @Jim Clark  | ebere.iweala@generalassemb.ly |
-|Lead Instructor | Saad Iqbal | @Shahzad | shahzad.khan@generalassemb.ly 
+|Lead Instructor  | Ebere Iweala      | @ebere  | ebere.iweala@generalassemb.ly |
+|Lead Instructor | Saad Iqbal | @saadigbal | shahzad.khan@generalassemb.ly 
 |Instructional Associate | Yassir Almuhtrish | @Almuhtrish | daniel.scott@generalassemb.ly |
 |Instructional Associate | Atheer |  @atheer  | alexander.rowland@generalassemb.ly |
 
