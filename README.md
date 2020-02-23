@@ -9,7 +9,7 @@
 |Role        | Name            | Slack       | Email |
 |:--         | :--             | :--         | :-- |
 |Lead Instructor  | Ebere Iweala      | @ebere  | ebere.iweala@generalassemb.ly |
-|Lead Instructor | Saad Iqbal | @saadigbal | saad.igbal@generalassemb.ly 
+|Lead Instructor | Saad Iqbal | @saadiqbal | saad.iqbal@generalassemb.ly 
 |Instructional Associate | Yassir Almuhtrish | @Almuhtrish | yassir.almuhtrish@generalassemb.ly |
 |Instructional Associate | Atheer |  @atheer  | atheer@generalassemb.ly |
 
