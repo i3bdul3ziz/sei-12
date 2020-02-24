@@ -25,9 +25,8 @@
     /projects
     /resources
     /lessons
-      /1_front_end_development
-          /week_1
-            /day_1
+      /week_1
+        /day_1
 ```
 
 ### GA SEI Graduation Requirements
