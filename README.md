@@ -17,9 +17,18 @@
 
 - Course duration: Tuesday, Feb 26th, 2020 - Monday, May 14th, 2020 
 
+### Repo Structure
 
-
-
+```
+/sei-12
+    /computer_science
+    /projects
+    /resources
+    /lessons
+      /1_front_end_development
+          /week_1
+            /day_1
+```
 
 ### GA SEI Graduation Requirements
 
