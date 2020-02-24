@@ -11,7 +11,7 @@
 
 After installing the VS Code, we can also configure the code to open from a command line, and it is pretty darn easy for us to do that.
 
-![vscode image](/sei-jeddah/sei-12/blob/master/lessons/week_1/day_1/uploads/vscode.png?raw=true)
+![vscode image](https://raw.git.generalassemb.ly/sei-jeddah/sei-12/master/lessons/week_1/day_1/uploads/vscode.png)
 
 1. Launch VS Code.
 1. Open the Command Palette (⇧ Shift + Ctrl+ P) and type `shell command` to find the Shell Command: Install `code` command in PATH command.
