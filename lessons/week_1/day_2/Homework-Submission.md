@@ -24,10 +24,6 @@ When it is completed, it should look like the image below without the annotation
 5. A window should pop up. Paste the copied URL into the `URL or username/repository` input field. Check to see if the local path is yoru prefered path and then click `Clone`
 ![](images/5.png)
 
-6. If its successful you should have a screen like this:
-![](images/6.png)
-
-7. (Optional) change the editor `preferences` to VScode 
 
 ## Steps to submission
 1. After completing the homework. From your `terminal` or `git-bash` push to github:
