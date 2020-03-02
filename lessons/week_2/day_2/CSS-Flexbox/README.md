@@ -58,5 +58,8 @@ Use flexbox to complete these common [web page layouts](labs/README.md)
 
 ## Additional Resources
 
-- https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-- https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/
+- [guide to flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [visual guide to flexbox](https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/)
+- [flexbox playground](https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/)
+- [flexplorer](https://bennettfeely.com/flexplorer/)
+
