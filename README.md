@@ -50,6 +50,5 @@ When you complete our program with passing status, you unlock our alumni perks:
 ### Project 1
 |Name       | Game Name            | URL    |
 |:--         | :--             | :--         |
-| Edrees Alyamani |	| [Git URL](https://git.generalassemb.ly/alyamaniedrees/Project_Prompt_1)
-[Live URL](https://pages.git.generalassemb.ly/alyamaniedrees/Project_Prompt_1/
+| Edrees Alyamani |	| [Git URL](https://git.generalassemb.ly/alyamaniedrees/Project_Prompt_1) [Live URL](https://pages.git.generalassemb.ly/alyamaniedrees/Project_Prompt_1/)|
 
