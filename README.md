@@ -45,3 +45,11 @@ When you complete our program with passing status, you unlock our alumni perks:
 - Receive a GA Letter of Completion (via email 1 week after graduation)
 - Credits and discounts for other GA courses (check with Student Services for details).
 - Access to our Alumni Community
+
+
+### Project 1
+|Name       | Game Name            | URL    |
+|:--         | :--             | :--         | :-- |
+| Edrees Alyamani |	| [Git URL](https://git.generalassemb.ly/alyamaniedrees/Project_Prompt_1)
+[Live URL](https://pages.git.generalassemb.ly/alyamaniedrees/Project_Prompt_1/
+
