@@ -52,32 +52,31 @@ When you complete our program with passing status, you unlock our alumni perks:
 |:--         | :--             | :--         |
 | Edrees Alyamani |	| [Git URL](https://git.generalassemb.ly/alyamaniedrees/Project_Prompt_1) [Live URL](https://pages.git.generalassemb.ly/alyamaniedrees/Project_Prompt_1/)|
 |Lujen	Babunji ||	[Git URL](https://git.generalassemb.ly/lujenbabunji/Rock-Paper-Scissors) [Live URL](https://pages.git.generalassemb.ly/lujenbabunji/Rock-Paper-Scissors/)|
-|Ola AlYamani||	[Git URL](https://git.generalassemb.ly/OLA13/Sudoku---Ola)	[LIVE URL](https://pages.git.generalassemb.ly/OLA13/Sudoku---Ola/) | 
-| Ghadeer	Alwafi ||	[Git URL](https://git.generalassemb.ly/ghadeeralwafi/Sea-Battle-Game)	[Live URL](https://pages.git.generalassemb.ly/ghadeeralwafi/Sea-Battle-Game/ |
-| Abdulrahman	Albediri||	[Git URL](https://git.generalassemb.ly/Dhom98/Get-8)	[Live URL](https://pages.git.generalassemb.ly/ghadeeralwafi/Sea-Battle-Game/ |
-| Abdulaziz 	Alsubhi	|| [Git URL](https://git.generalassemb.ly/Abdulaziz-Alsubhi-GA/Memory_Game)	[Live URL](https://pages.git.generalassemb.ly/Abdulaziz-Alsubhi-GA/Memory_Game/ |
-| Abdulhameed	Alghamdi||	[Git URL](https://github.com/i7medo/TicTacToe)	[Live URL](https://i7medo.github.io/TicTacToe/|
-|maram	ghilani	|| [Git URL](https://git.generalassemb.ly/maram1139/match_animal_game)	[Live URL](https://pages.git.generalassemb.ly/maram1139/match_animal_game/|
+|Ola AlYamani| [Sudoku](https://pages.git.generalassemb.ly/OLA13/Sudoku---Ola/) |	[Git URL](https://git.generalassemb.ly/OLA13/Sudoku---Ola) | 
+| Ghadeer	Alwafi |[Sea Battle](https://pages.git.generalassemb.ly/ghadeeralwafi/Sea-Battle-Game/)|	[Git URL](https://git.generalassemb.ly/ghadeeralwafi/Sea-Battle-Game)	[Live URL] |
+| Abdulrahman	Albediri| [Live URL]()|	[Git URL](https://git.generalassemb.ly/Dhom98/Get-8)|
+| Abdulaziz 	Alsubhi	| [Memory Game](https://pages.git.generalassemb.ly/Abdulaziz-Alsubhi-GA/Memory_Game/)| [Git URL](https://git.generalassemb.ly/Abdulaziz-Alsubhi-GA/Memory_Game)|
+| Abdulhameed	Alghamdi| [TTT](https://pages.git.generalassemb.ly/maram1139/match_animal_game/)|	[Git URL](https://github.com/i7medo/TicTacToe)	[Live URL](https://i7medo.github.io/TicTacToe/|
+|maram	ghilani	|| [Git URL](https://git.generalassemb.ly/maram1139/match_animal_game)|
 |abdulwahab	alshehri|| [Git URL](https://git.generalassemb.ly/abdul2020/TRY_TO_TYPE-Game)	[Live URL](https://pages.git.generalassemb.ly/abdul2020/TRY_TO_TYPE-Game/|
 |Ziad	Alshanbari|	| [Git URL](https://pages.git.generalassemb.ly/Zyzto/Corona_Invader/)	[Live URL](https://git.generalassemb.ly/Zyzto/Corona_Invader|
-|mohammed 	alhddad	| [Git URL](https://github.com/alhaddad11/Tic-Tac-Toe.git)	[Live URL](https://alhaddad11.github.io/Tic-Tac-Toe/.|
-|hanan	alsahli	| [Git URL](https://pages.git.generalassemb.ly/hananalsahli02/my-new-project1/)	[Live URL](https://pages.git.generalassemb.ly/hananalsahli02/my-new-project1/|
-|Hala 	alyanbawi|	| [Git URL](https://git.generalassemb.ly/Hala959/Project_Prompt_1)	[Live URL](https://pages.git.generalassemb.ly/Hala959/Project_Prompt_1/|
-|adel	hazazi|	| [Git URL](https://git.generalassemb.ly/adelHazazi/first-project-adel)	[Live URL](https://pages.git.generalassemb.ly/adelHazazi/first-project-adel/ |
-|Jawaher	Almaasrani ||	[Git URL](https://git.generalassemb.ly/Jawaher-adil/pro1_jawaher.git	
-
-Abdulaziz	Althagafi||[Git URL](https://git.generalassemb.ly/labdul2ziz/Breakout-Game) [Live URL](https://pages.git.generalassemb.ly/labdul2ziz/Breakout-Game/|
-Samiah	Alhamzani	|| [Git URL](https://git.generalassemb.ly/SamiahAl/tic-tac-toe)	[Live URL](https://pages.git.generalassemb.ly/SamiahAl/tic-tac-toe/|
+|mohammed 	alhddad	|[TTT](https://alhaddad11.github.io/Tic-Tac-Toe/) |[Git URL](https://github.com/alhaddad11/Tic-Tac-Toe.git)	|
+|hanan	alsahli	| [Live URL](https://pages.git.generalassemb.ly/hananalsahli02/my-new-project1/)|[Git URL](https://pages.git.generalassemb.ly/hananalsahli02/my-new-project1/)	|
+|Hala 	alyanbawi|	| [Git URL](https://git.generalassemb.ly/Hala959/Project_Prompt_1)	[Live URL](https://pages.git.generalassemb.ly/Hala959/Project_Prompt_1/)|
+|adel	hazazi|	| [Git URL](https://git.generalassemb.ly/adelHazazi/first-project-adel)	[Live URL](https://pages.git.generalassemb.ly/adelHazazi/first-project-adel/) |
+|Jawaher	Almaasrani |[Snake]()|	[Git URL](https://git.generalassemb.ly/Jawaher-adil/pro1_jawaher.git)|	
+Abdulaziz	Althagafi||[Git URL](https://git.generalassemb.ly/labdul2ziz/Breakout-Game) [Live URL](https://pages.git.generalassemb.ly/labdul2ziz/Breakout-Game/)|
+Samiah	Alhamzani	|[TTT](https://pages.git.generalassemb.ly/SamiahAl/tic-tac-toe/)| [Git URL](https://git.generalassemb.ly/SamiahAl/tic-tac-toe)	|
 Rawan	Aljehani	|| [Git URL](https://git.generalassemb.ly/xrounx/My-Game)	Final view link here|
-Sarah	Althobaiti||	[Git URL](https://git.generalassemb.ly/Sarah96/Game)	[Live URL](https://pages.git.generalassemb.ly/Sarah96/Game/|
-|Ibtihal	Alotaibi ||	[Git URL](https://git.generalassemb.ly/Ibtihal/My-game)	[Live URL](https://pages.git.generalassemb.ly/Ibtihal/My-game/|
-|Bashayr 	Alhasani||	[Git URL](https://github.com/Bashayr-Alhasani/Project-1-3072	[Live URL](https://bashayr-alhasani.github.io/Project-1-3072/)|
+Sarah	Althobaiti||	[Git URL](https://git.generalassemb.ly/Sarah96/Game)	[Live URL](https://pages.git.generalassemb.ly/Sarah96/Game/)|
+|Ibtihal	Alotaibi |[Live URL](https://pages.git.generalassemb.ly/Ibtihal/My-game/)|	[Git URL](https://git.generalassemb.ly/Ibtihal/My-game)	|
+|Bashayr 	Alhasani|[Live URL](https://bashayr-alhasani.github.io/Project-1-3072/)|	[Git URL](https://github.com/Bashayr-Alhasani/Project-1-3072)	|
 |Najlaa	Alahmari||	[Git URL](https://git.generalassemb.ly/n2jlaa/crossword-game)	[Live URL](file:///C:/Users/o-m-y/sei/projects/Sudoku---Ola/index.html)|
 |Abdulrahman	Saddeek	|| [Git URL](https://git.generalassemb.ly/Abdulrahman-S/Project_Prompt_1)	[Live URL](https://pages.git.generalassemb.ly/Abdulrahman-S/Project_Prompt_1/)|
 |Faisal 	Buzaid ||	[Git URL](https://github.com/faisalbuzaid/presentation)	[Live URL](https://github.com/faisalbuzaid/presentation)|
 |Maram	Alfawaz||	[Git URL](https://git.generalassemb.ly/Maram-Alfawaz/Kill-coronavirus-MaramAlfawaz)	[Live URL](https://pages.git.generalassemb.ly/Maram-Alfawaz/Kill-coronavirus-MaramAlfawaz/)|
 |Jaber	Alsalamah||	[Git URL](https://git.generalassemb.ly/JaAlSaDev/Dream-Field)	[Live URL](https://pages.git.generalassemb.ly/JaAlSaDev/Dream-Field/)|
-|ibrahim	alhamdan || [Git URL](https://git.generalassemb.ly/ibrahimvis/Project_Prompt_1)	[Live URL](https://ibrahimvis.github.io/GAProject-MGS-Game/)|
-asma	alswab		
+|ibrahim	alhamdan |[MGS-Game]((https://ibrahimvis.github.io/GAProject-MGS-Game/))| [Git URL](https://git.generalassemb.ly/ibrahimvis/Project_Prompt_1)	|
+	
 
 
