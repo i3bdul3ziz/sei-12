@@ -50,8 +50,8 @@ When you complete our program with passing status, you unlock our alumni perks:
 ### Project 1
 |Name       | Game Name            | URL    |
 |:--         | :--             | :--         |
-| Edrees Alyamani |	| [Git URL](https://git.generalassemb.ly/alyamaniedrees/Project_Prompt_1) [Live URL](https://pages.git.generalassemb.ly/alyamaniedrees/Project_Prompt_1/)|
-|Lujen	Babunji ||	[Git URL](https://git.generalassemb.ly/lujenbabunji/Rock-Paper-Scissors) [Live URL](https://pages.git.generalassemb.ly/lujenbabunji/Rock-Paper-Scissors/)|
+| Edrees Alyamani |[Live URL](https://pages.git.generalassemb.ly/alyamaniedrees/Project_Prompt_1/)	| [Git URL](https://git.generalassemb.ly/alyamaniedrees/Project_Prompt_1) |
+|Lujen	Babunji |[Rock-Paper-Scissors](https://pages.git.generalassemb.ly/lujenbabunji/Rock-Paper-Scissors/)| [Git URL](https://git.generalassemb.ly/lujenbabunji/Rock-Paper-Scissors) |
 |Ola AlYamani| [Sudoku](https://pages.git.generalassemb.ly/OLA13/Sudoku---Ola/) |	[Git URL](https://git.generalassemb.ly/OLA13/Sudoku---Ola) | 
 | Ghadeer	Alwafi |[Sea Battle](https://pages.git.generalassemb.ly/ghadeeralwafi/Sea-Battle-Game/)|	[Git URL](https://git.generalassemb.ly/ghadeeralwafi/Sea-Battle-Game)	[Live URL] |
 | Abdulrahman	Albediri| [Live URL]()|	[Git URL](https://git.generalassemb.ly/Dhom98/Get-8)|
