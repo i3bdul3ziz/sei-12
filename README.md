@@ -51,4 +51,6 @@ When you complete our program with passing status, you unlock our alumni perks:
 |Name       | Game Name            | URL    |
 |:--         | :--             | :--         |
 | Edrees Alyamani |	| [Git URL](https://git.generalassemb.ly/alyamaniedrees/Project_Prompt_1) [Live URL](https://pages.git.generalassemb.ly/alyamaniedrees/Project_Prompt_1/)|
+|Lujen	Babunji |	[Git URL](https://git.generalassemb.ly/lujenbabunji/Rock-Paper-Scissors)	[Live URL](https://pages.git.generalassemb.ly/lujenbabunji/Rock-Paper-Scissors/)|
+|Ola AlYamani|	[Git URL](https://git.generalassemb.ly/OLA13/Sudoku---Ola)	[LIVE URL](https://pages.git.generalassemb.ly/OLA13/Sudoku---Ola/) | 
 
