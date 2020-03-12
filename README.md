@@ -51,7 +51,7 @@ When you complete our program with passing status, you unlock our alumni perks:
 |Name       | Game Name            | URL    |
 |:--         | :--             | :--         |
 | Edrees Alyamani |	| [Git URL](https://git.generalassemb.ly/alyamaniedrees/Project_Prompt_1) [Live URL](https://pages.git.generalassemb.ly/alyamaniedrees/Project_Prompt_1/)|
-|Lujen	Babunji ||	[Git URL](https://git.generalassemb.ly/lujenbabunji/Rock-Paper-Scissors)	[Live URL](https://pages.git.generalassemb.ly/lujenbabunji/Rock-Paper-Scissors/)|
+|Lujen	Babunji ||	[Git URL](https://git.generalassemb.ly/lujenbabunji/Rock-Paper-Scissors) [Live URL](https://pages.git.generalassemb.ly/lujenbabunji/Rock-Paper-Scissors/)|
 |Ola AlYamani||	[Git URL](https://git.generalassemb.ly/OLA13/Sudoku---Ola)	[LIVE URL](https://pages.git.generalassemb.ly/OLA13/Sudoku---Ola/) | 
 | Ghadeer	Alwafi ||	[Git URL](https://git.generalassemb.ly/ghadeeralwafi/Sea-Battle-Game)	[Live URL](https://pages.git.generalassemb.ly/ghadeeralwafi/Sea-Battle-Game/ |
 | Abdulrahman	Albediri||	[Git URL](https://git.generalassemb.ly/Dhom98/Get-8)	[Live URL](https://pages.git.generalassemb.ly/ghadeeralwafi/Sea-Battle-Game/ |
@@ -70,13 +70,11 @@ Abdulaziz	Althagafi||[Git URL](https://git.generalassemb.ly/labdul2ziz/Breakout-
 Samiah	Alhamzani	|| [Git URL](https://git.generalassemb.ly/SamiahAl/tic-tac-toe)	[Live URL](https://pages.git.generalassemb.ly/SamiahAl/tic-tac-toe/|
 Rawan	Aljehani	|| [Git URL](https://git.generalassemb.ly/xrounx/My-Game)	Final view link here|
 Sarah	Althobaiti||	[Git URL](https://git.generalassemb.ly/Sarah96/Game)	[Live URL](https://pages.git.generalassemb.ly/Sarah96/Game/|
-
-
-Ibtihal	Alotaibi	[Git URL](https://git.generalassemb.ly/Ibtihal/My-game)	[Live URL](https://pages.git.generalassemb.ly/Ibtihal/My-game/|
-Bashayr 	Alhasani||	[Git URL](https://github.com/Bashayr-Alhasani/Project-1-3072	[Live URL](https://bashayr-alhasani.github.io/Project-1-3072/)|
-Najlaa	Alahmari||	[Git URL](https://git.generalassemb.ly/n2jlaa/crossword-game)	[Live URL](file:///C:/Users/o-m-y/sei/projects/Sudoku---Ola/index.html)|
-Abdulrahman	Saddeek	|| [Git URL](https://git.generalassemb.ly/Abdulrahman-S/Project_Prompt_1)	[Live URL](https://pages.git.generalassemb.ly/Abdulrahman-S/Project_Prompt_1/)|
-Faisal 	Buzaid ||	[Git URL](https://github.com/faisalbuzaid/presentation)	[Live URL](https://github.com/faisalbuzaid/presentation)|
+|Ibtihal	Alotaibi ||	[Git URL](https://git.generalassemb.ly/Ibtihal/My-game)	[Live URL](https://pages.git.generalassemb.ly/Ibtihal/My-game/|
+|Bashayr 	Alhasani||	[Git URL](https://github.com/Bashayr-Alhasani/Project-1-3072	[Live URL](https://bashayr-alhasani.github.io/Project-1-3072/)|
+|Najlaa	Alahmari||	[Git URL](https://git.generalassemb.ly/n2jlaa/crossword-game)	[Live URL](file:///C:/Users/o-m-y/sei/projects/Sudoku---Ola/index.html)|
+|Abdulrahman	Saddeek	|| [Git URL](https://git.generalassemb.ly/Abdulrahman-S/Project_Prompt_1)	[Live URL](https://pages.git.generalassemb.ly/Abdulrahman-S/Project_Prompt_1/)|
+|Faisal 	Buzaid ||	[Git URL](https://github.com/faisalbuzaid/presentation)	[Live URL](https://github.com/faisalbuzaid/presentation)|
 |Maram	Alfawaz||	[Git URL](https://git.generalassemb.ly/Maram-Alfawaz/Kill-coronavirus-MaramAlfawaz)	[Live URL](https://pages.git.generalassemb.ly/Maram-Alfawaz/Kill-coronavirus-MaramAlfawaz/)|
 |Jaber	Alsalamah||	[Git URL](https://git.generalassemb.ly/JaAlSaDev/Dream-Field)	[Live URL](https://pages.git.generalassemb.ly/JaAlSaDev/Dream-Field/)|
 |ibrahim	alhamdan || [Git URL](https://git.generalassemb.ly/ibrahimvis/Project_Prompt_1)	[Live URL](https://ibrahimvis.github.io/GAProject-MGS-Game/)|
