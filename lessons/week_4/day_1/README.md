@@ -15,14 +15,6 @@ By the end of this talk, developers should be able to:
 - Reference MDN documentation when learning array methods
 - Invoke array methods and pass callback functions as the argument
 
-## Preparation
-
-1. Fork and clone this repository.
-   [FAQ](https://git.generalassemb.ly/ga-wdi-boston/meta/wiki/ForkAndClone)
-1. Create a new branch, `training`, for your work.
-1. Checkout to the `training` branch.
-1. Install dependencies with `npm install`.
-
 ## Callbacks
 
 A callback is a function that we pass as an argument to another function or
