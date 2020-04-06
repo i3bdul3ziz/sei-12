@@ -1,0 +1,65 @@
+body{
+    background-position:center center;
+    background-repeat:  no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    overflow: hidden;
+    font-family: 'Roboto', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .weather {
+    float: right;
+  }
+  .container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+  .icon {
+    color: white;
+    position: absolute;
+    right: 75px;
+    font-size: 25px;
+    top: 2px;
+  }
+  .temp {
+    color: white;
+    font-size: 30px;
+    margin-right: -20px;
+  }
+  .city {
+    color: white;
+    padding-right: 20px;
+    text-align: right;
+    font-size: 15px;
+  }
+  .time {
+    color: white;
+    font-size: 80px;
+    position: absolute;
+    top: 35%;
+    width: 100%;
+    text-align: center;
+  }
+  .name {
+    color: white;
+    font-size: 80px;
+    position: absolute;
+    top: 45%;
+    width: 100%;
+    text-align: center;
+  }
+  .qouteCon{
+    width: 100%;
+    position: absolute;
+    top: 90%;
+    text-align: center;
+  }
+  .quote{
+    color: white;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+  }
