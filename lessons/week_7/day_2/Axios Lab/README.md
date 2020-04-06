@@ -4,7 +4,7 @@
 ## Spec:
 Today we're building a clone of the popular chrome homepage extension, [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en).
 
-![momentum](https://github.com/WDI-HoneyBadger/hw-w07d02-momentum-clone/blob/master/momentum_spec.png)
+![momentum](Images/momentum_spec.png)
 
 
 
